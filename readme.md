@@ -14,7 +14,7 @@ This time you MUST use Decision Tree and Random Forest algorithms to model the d
 - Install [uv](https://docs.astral.sh/uv/getting-started/installation/) on your machine. If you want to keep things simple, usually this command is enough:
 
 ```bash
-pipx install uv
+pip install uv
 ```
 
 - Install the dependencies by running the following command in the root directory of the project (where the `pyproject.toml` file is located):
